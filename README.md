@@ -10,7 +10,7 @@ Minecraft JE 26.2
 O S S
 O / S
 / O O
-s=saplings(苗木)
-/=stick(棒)
-## 注意事項
+s=saplings(苗木)  
+/=stick(棒)  
+## 注意事項  
 メインハンドでのみ発動できます
