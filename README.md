@@ -1,6 +1,6 @@
 # Staff-of-Sprouting
 datapack submitted to the datapack-contest by yrh_lab
-##対応バージョン
+## 対応バージョン
 Minecraft JE 26.2
 ## 使い方
 - 右クリックで魔法を発動
