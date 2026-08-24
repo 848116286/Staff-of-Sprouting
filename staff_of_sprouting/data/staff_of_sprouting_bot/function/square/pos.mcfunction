@@ -1,0 +1,87 @@
+tp @s ~ ~1.6 ~
+
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+execute at @s if block ^ ^ ^0.1 #staff_of_sprouting_bot:no_coll run tp @s ^ ^ ^0.1
+
+
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+execute at @s if block ~ ~-0.1 ~ #staff_of_sprouting_bot:no_coll run tp @s ~ ~-0.1 ~
+
+execute at @s run function staff_of_sprouting_bot:square/a-1
+kill @s

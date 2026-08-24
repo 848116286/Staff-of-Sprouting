@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ##",
+    " /#",
+    "/  "
+  ],
+  "key": {
+    "#": "#saplings",
+    "/": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:warped_fungus_on_a_stick",
+    "components": {
+        "custom_model_data": {
+            "strings": ["staff_of_sprouting"]
+        },
+        "attack_range": {
+            "min_reach": 0,
+            "max_reach": 0,
+            "max_creative_reach": 0,
+            "min_creative_reach": 0,
+            "hitbox_margin": 0
+        },
+        "swing_animation": {
+            "type": "none"
+        },
+        "item_name": {
+            "text": "芽吹きの杖",
+            "color": "light_purple"
+        },
+        "enchantments": {
+            "staff_of_sprouting_bot:l_click": 1
+        },
+        "tooltip_display": {
+            "hidden_components": [
+                "enchantments"
+            ]
+        },
+        "custom_data": {
+            "bot":{
+                "sosb":1
+            }
+        },
+        "piercing_weapon": {
+            "deals_knockback": false
+        }
+    }
+  }
+}

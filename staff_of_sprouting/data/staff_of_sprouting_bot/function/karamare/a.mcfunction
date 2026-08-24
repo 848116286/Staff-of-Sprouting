@@ -1,0 +1,6 @@
+execute store result entity @s Motion[0] float 0.0001 facing entity @n[type=block_display,tag=sosb_karamare_bd] feet positioned 0.0 0.0 0.0 positioned ^ ^ ^0.47932 summon marker run data get entity @s Pos[0] 8000
+execute facing entity @n[type=block_display,tag=sosb_karamare_bd] feet positioned 0.0 0.0 0.0 positioned ^ ^ ^0.47932 run kill @n[type=marker]
+execute store result entity @s Motion[1] float 0.0001 facing entity @n[type=block_display,tag=sosb_karamare_bd] feet positioned 0.0 0.0 0.0 positioned ^ ^ ^0.47932 summon marker run data get entity @s Pos[1] 8000
+execute facing entity @n[type=block_display,tag=sosb_karamare_bd] feet positioned 0.0 0.0 0.0 positioned ^ ^ ^0.47932 run kill @n[type=marker]
+execute store result entity @s Motion[2] float 0.0001 facing entity @n[type=block_display,tag=sosb_karamare_bd] feet positioned 0.0 0.0 0.0 positioned ^ ^ ^0.47932 summon marker run data get entity @s Pos[2] 8000
+execute facing entity @n[type=block_display,tag=sosb_karamare_bd] feet positioned 0.0 0.0 0.0 positioned ^ ^ ^0.47932 run kill @n[type=marker]

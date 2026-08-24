@@ -1,0 +1,2 @@
+data merge entity @e[type=item_display,tag=sosb_a0,distance=..1,limit=1,sort=nearest] {transformation:[0.7071067812f,0f,0.0441941738f,-0.0000655475f,0f,0.75f,0f,1.731875f,-0.7071067812f,0f,0.0441941738f,-0.0000655475f,0f,0f,0f,1f],interpolation_duration:2,start_interpolation:0}
+data merge entity @e[type=item_display,tag=sosb_a1,distance=..1,limit=1,sort=nearest] {transformation:[0.7071067812f,0f,-0.0441941738f,-0.0000655475f,0f,0.75f,0f,1.731875f,0.7071067812f,0f,0.0441941738f,-0.0000655475f,0f,0f,0f,1f],interpolation_duration:2,start_interpolation:0}

@@ -1,0 +1,1 @@
+$execute as @e[type=armor_stand,tag=sosb_growth_growth,distance=..0.3] run spreadplayers ~ ~ 3 8 under $(maxheight) false @s

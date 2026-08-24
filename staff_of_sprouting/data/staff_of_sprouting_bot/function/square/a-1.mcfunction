@@ -1,0 +1,3 @@
+summon item_display ~ ~ ~ {Passengers:[{id:"minecraft:item_display",item:{id:"minecraft:apple"},item_display:"none",transformation:[0.7071067812f,0f,0.0441941738f,-0.0000655475f,0f,0.75f,0f,2.875f,-0.7071067812f,0f,0.0441941738f,-0.0000655475f,0f,0f,0f,1f],Tags:["sosb_a0"],Glowing:true,glow_color_override:15335679},{id:"minecraft:item_display",item:{id:"minecraft:apple"},item_display:"none",transformation:[0.7071067812f,0f,-0.0441941738f,-0.0000655475f,0f,0.75f,0f,2.875f,0.7071067812f,0f,0.0441941738f,-0.0000655475f,0f,0f,0f,1f],Tags:["sosb_a1"],Glowing:true,glow_color_override:15335679}],Tags:["sosb_a"]}
+
+playsound entity.armadillo.brush block @a ~ ~2.5 ~ 1 1.8

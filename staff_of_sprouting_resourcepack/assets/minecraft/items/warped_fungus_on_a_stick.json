@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "cases": [
+            {
+                "when": "staff_of_sprouting",
+                "model": {
+                    "type": "model",
+                    "model": "item/staff_of_sprouting"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "model",
+            "model": "item/warped_fungus_on_a_stick"
+        }
+    }
+}
